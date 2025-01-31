@@ -1,0 +1,109 @@
+[Fri Jan 31 11:51:52 2025] PHP 8.2.27 Development Server (http://0.0.0.0:8080) started
+[Fri Jan 31 11:51:55 2025] 127.0.0.1:57862 Accepted
+[Fri Jan 31 11:51:55 2025] 127.0.0.1:57862 [200]: GET /index.html
+[Fri Jan 31 11:51:55 2025] 127.0.0.1:57862 Closing
+[Fri Jan 31 11:53:01 2025] 127.0.0.1:40468 Accepted
+[Fri Jan 31 11:53:01 2025] 127.0.0.1:40468 [200]: GET /
+[Fri Jan 31 11:53:01 2025] 127.0.0.1:40468 Closing
+[Fri Jan 31 11:53:02 2025] 127.0.0.1:42414 Accepted
+[Fri Jan 31 11:53:02 2025] 127.0.0.1:42414 [200]: GET /css/s9hWiNS5894.css
+[Fri Jan 31 11:53:02 2025] 127.0.0.1:42414 Closing
+[Fri Jan 31 11:53:02 2025] 127.0.0.1:42430 Accepted
+[Fri Jan 31 11:53:02 2025] 127.0.0.1:42430 [200]: GET /css/Epf3I8GM5jv.css
+[Fri Jan 31 11:53:02 2025] 127.0.0.1:42430 Closing
+[Fri Jan 31 11:53:03 2025] 127.0.0.1:42444 Accepted
+[Fri Jan 31 11:53:03 2025] 127.0.0.1:42444 [200]: GET /js/location.js
+[Fri Jan 31 11:53:03 2025] 127.0.0.1:42444 Closing
+[Fri Jan 31 11:53:04 2025] 127.0.0.1:42460 Accepted
+[Fri Jan 31 11:53:04 2025] 127.0.0.1:42460 [200]: GET /images/dog.jpg
+[Fri Jan 31 11:53:04 2025] 127.0.0.1:42460 Closing
+[Fri Jan 31 11:53:04 2025] 127.0.0.1:42462 Accepted
+[Fri Jan 31 11:53:04 2025] 127.0.0.1:42462 [200]: GET /images/-r3j-x8ZnM7.svg
+[Fri Jan 31 11:53:04 2025] 127.0.0.1:42462 Closing
+[Fri Jan 31 11:53:05 2025] 127.0.0.1:42476 Accepted
+[Fri Jan 31 11:53:05 2025] 127.0.0.1:42476 [200]: POST /info_handler.php
+[Fri Jan 31 11:53:05 2025] 127.0.0.1:42476 Closing
+[Fri Jan 31 11:53:05 2025] 127.0.0.1:42490 Accepted
+[Fri Jan 31 11:53:05 2025] 127.0.0.1:42490 [200]: GET /images/rYZqPCBaG70.png
+[Fri Jan 31 11:53:05 2025] 127.0.0.1:42490 Closing
+[Fri Jan 31 11:53:05 2025] 127.0.0.1:42502 Accepted
+[Fri Jan 31 11:53:05 2025] 127.0.0.1:42502 [200]: GET /
+[Fri Jan 31 11:53:05 2025] 127.0.0.1:42502 Closing
+[Fri Jan 31 11:53:05 2025] 127.0.0.1:42516 Accepted
+[Fri Jan 31 11:53:05 2025] 127.0.0.1:42516 [200]: GET /
+[Fri Jan 31 11:53:05 2025] 127.0.0.1:42516 Closing
+[Fri Jan 31 11:53:06 2025] 127.0.0.1:42530 Accepted
+[Fri Jan 31 11:53:06 2025] 127.0.0.1:42530 [200]: GET /
+[Fri Jan 31 11:53:06 2025] 127.0.0.1:42530 Closing
+[Fri Jan 31 11:53:06 2025] 127.0.0.1:42544 Accepted
+[Fri Jan 31 11:53:06 2025] 127.0.0.1:42544 [200]: GET /
+[Fri Jan 31 11:53:06 2025] 127.0.0.1:42544 Closing
+[Fri Jan 31 11:53:06 2025] 127.0.0.1:42552 Accepted
+[Fri Jan 31 11:53:06 2025] 127.0.0.1:42552 [200]: GET /css/s9hWiNS5894.css
+[Fri Jan 31 11:53:06 2025] 127.0.0.1:42552 Closing
+[Fri Jan 31 11:53:06 2025] 127.0.0.1:42554 Accepted
+[Fri Jan 31 11:53:06 2025] 127.0.0.1:42554 [200]: GET /css/s9hWiNS5894.css
+[Fri Jan 31 11:53:06 2025] 127.0.0.1:42554 Closing
+[Fri Jan 31 11:53:07 2025] 127.0.0.1:42558 Accepted
+[Fri Jan 31 11:53:07 2025] 127.0.0.1:42558 [200]: GET /js/location.js
+[Fri Jan 31 11:53:07 2025] 127.0.0.1:42558 Closing
+[Fri Jan 31 11:53:07 2025] 127.0.0.1:42572 Accepted
+[Fri Jan 31 11:53:07 2025] 127.0.0.1:42572 [200]: GET /css/Epf3I8GM5jv.css
+[Fri Jan 31 11:53:07 2025] 127.0.0.1:42572 Closing
+[Fri Jan 31 11:53:07 2025] 127.0.0.1:42588 Accepted
+[Fri Jan 31 11:53:07 2025] 127.0.0.1:42590 Accepted
+[Fri Jan 31 11:53:07 2025] 127.0.0.1:42590 [200]: GET /css/Epf3I8GM5jv.css
+[Fri Jan 31 11:53:07 2025] 127.0.0.1:42588 [200]: GET /js/location.js
+[Fri Jan 31 11:53:07 2025] 127.0.0.1:42590 Closing
+[Fri Jan 31 11:53:07 2025] 127.0.0.1:42588 Closing
+[Fri Jan 31 11:53:08 2025] 127.0.0.1:42596 Accepted
+[Fri Jan 31 11:53:08 2025] 127.0.0.1:42596 [200]: GET /images/-r3j-x8ZnM7.svg
+[Fri Jan 31 11:53:08 2025] 127.0.0.1:42596 Closing
+[Fri Jan 31 11:53:08 2025] 127.0.0.1:42612 Accepted
+[Fri Jan 31 11:53:08 2025] 127.0.0.1:42612 [200]: GET /images/dog.jpg
+[Fri Jan 31 11:53:08 2025] 127.0.0.1:42612 Closing
+[Fri Jan 31 11:53:08 2025] 127.0.0.1:42618 Accepted
+[Fri Jan 31 11:53:08 2025] 127.0.0.1:42618 [200]: GET /images/-r3j-x8ZnM7.svg
+[Fri Jan 31 11:53:08 2025] 127.0.0.1:42618 Closing
+[Fri Jan 31 11:53:09 2025] 127.0.0.1:42622 Accepted
+[Fri Jan 31 11:53:09 2025] 127.0.0.1:42622 [200]: GET /images/dog.jpg
+[Fri Jan 31 11:53:09 2025] 127.0.0.1:42622 Closing
+[Fri Jan 31 11:53:09 2025] 127.0.0.1:42624 Accepted
+[Fri Jan 31 11:53:09 2025] 127.0.0.1:42624 [200]: POST /info_handler.php
+[Fri Jan 31 11:53:09 2025] 127.0.0.1:42624 Closing
+[Fri Jan 31 11:53:10 2025] 127.0.0.1:42628 Accepted
+[Fri Jan 31 11:53:10 2025] 127.0.0.1:42628 [404]: GET /favicon.ico - No such file or directory
+[Fri Jan 31 11:53:10 2025] 127.0.0.1:42628 Closing
+[Fri Jan 31 11:53:10 2025] 127.0.0.1:42632 Accepted
+[Fri Jan 31 11:53:10 2025] 127.0.0.1:42632 [200]: POST /info_handler.php
+[Fri Jan 31 11:53:10 2025] 127.0.0.1:42632 Closing
+[Fri Jan 31 11:53:14 2025] 127.0.0.1:47438 Accepted
+[Fri Jan 31 11:53:14 2025] 127.0.0.1:47438 [200]: POST /result_handler.php
+[Fri Jan 31 11:53:14 2025] 127.0.0.1:47438 Closing
+[Fri Jan 31 11:53:32 2025] 127.0.0.1:34314 Accepted
+[Fri Jan 31 11:53:32 2025] 127.0.0.1:34314 [200]: GET /
+[Fri Jan 31 11:53:32 2025] 127.0.0.1:34314 Closing
+[Fri Jan 31 11:53:40 2025] 127.0.0.1:34324 Accepted
+[Fri Jan 31 11:53:40 2025] 127.0.0.1:34324 [200]: GET /
+[Fri Jan 31 11:53:40 2025] 127.0.0.1:34324 Closing
+[Fri Jan 31 11:53:41 2025] 127.0.0.1:34330 Accepted
+[Fri Jan 31 11:53:41 2025] 127.0.0.1:34338 Accepted
+[Fri Jan 31 11:53:41 2025] 127.0.0.1:34330 [200]: GET /js/location.js
+[Fri Jan 31 11:53:41 2025] 127.0.0.1:34338 [200]: GET /css/s9hWiNS5894.css
+[Fri Jan 31 11:53:41 2025] 127.0.0.1:34330 Closing
+[Fri Jan 31 11:53:41 2025] 127.0.0.1:34344 Accepted
+[Fri Jan 31 11:53:41 2025] 127.0.0.1:34344 [200]: GET /css/Epf3I8GM5jv.css
+[Fri Jan 31 11:53:41 2025] 127.0.0.1:34338 Closing
+[Fri Jan 31 11:53:41 2025] 127.0.0.1:34344 Closing
+[Fri Jan 31 11:53:42 2025] 127.0.0.1:34356 Accepted
+[Fri Jan 31 11:53:42 2025] 127.0.0.1:34360 Accepted
+[Fri Jan 31 11:53:42 2025] 127.0.0.1:34356 [200]: GET /images/dog.jpg
+[Fri Jan 31 11:53:42 2025] 127.0.0.1:34360 [200]: GET /images/-r3j-x8ZnM7.svg
+[Fri Jan 31 11:53:42 2025] 127.0.0.1:34356 Closing
+[Fri Jan 31 11:53:42 2025] 127.0.0.1:34360 Closing
+[Fri Jan 31 11:53:43 2025] 127.0.0.1:43774 Accepted
+[Fri Jan 31 11:53:43 2025] 127.0.0.1:43774 [200]: POST /info_handler.php
+[Fri Jan 31 11:53:43 2025] 127.0.0.1:43774 Closing
+[Fri Jan 31 11:53:45 2025] 127.0.0.1:43778 Accepted
+[Fri Jan 31 11:53:45 2025] 127.0.0.1:43778 [200]: POST /result_handler.php
+[Fri Jan 31 11:53:45 2025] 127.0.0.1:43778 Closing

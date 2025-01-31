@@ -1,0 +1,332 @@
+=====================
+INSTALLING FOR DEBIAN
+=====================
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3 is already the newest version (3.12.8-1).
+The following packages were automatically installed and are no longer required:
+  fonts-liberation2         libmagickcore-6.q16-7-extra
+  freerdp2-x11              libmagickcore-6.q16-7t64
+  hydra-gtk                 libmagickwand-6.q16-7t64
+  ibverbs-providers         libmbedcrypto7t64
+  imagemagick-6-common      libmfx1
+  imagemagick-6.q16         libpaper1
+  libassuan0                libperl5.38t64
+  libavfilter9              libplacebo338
+  libbfio1                  libplist3
+  libboost-iostreams1.83.0  libpostproc57
+  libboost-thread1.83.0     libpython3.11-dev
+  libcapstone4              librados2
+  libcephfs2                librdmacm1t64
+  libdirectfb-1.7-7t64      libtag1v5
+  libegl-dev                libtag1v5-vanilla
+  libfmt9                   libtagc0
+  libfreerdp-client2-2t64   libusbmuxd6
+  libfreerdp2-2t64          libwinpr2-2t64
+  libgail-common            libzip4t64
+  libgail18t64              openjdk-17-jre
+  libgeos3.12.2             openjdk-17-jre-headless
+  libgfapi0                 openjdk-23-jre
+  libgfrpc0                 openjdk-23-jre-headless
+  libgfxdr0                 perl-modules-5.38
+  libgl1-mesa-dev           python3-appdirs
+  libgles-dev               python3-hatch-vcs
+  libgles1                  python3-hatchling
+  libglusterfs0             python3-lib2to3
+  libglvnd-core-dev         python3-pathspec
+  libglvnd-dev              python3-pluggy
+  libgspell-1-2             python3-setuptools-scm
+  libgtk2.0-0t64            python3-trove-classifiers
+  libgtk2.0-bin             python3.11
+  libgtk2.0-common          python3.11-dev
+  libibverbs1               python3.11-minimal
+  libimobiledevice6         rwho
+  libiniparser1             rwhod
+  libjim0.82t64             samba-vfs-modules
+  libjsoncpp25
+Use 'sudo apt autoremove' to remove them.
+
+Summary:
+  Upgrading: 0, Installing: 0, Removing: 0, Not Upgrading: 154
+
+--------------------
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3-pip is already the newest version (24.3.1+dfsg-1).
+The following packages were automatically installed and are no longer required:
+  fonts-liberation2         libmagickcore-6.q16-7-extra
+  freerdp2-x11              libmagickcore-6.q16-7t64
+  hydra-gtk                 libmagickwand-6.q16-7t64
+  ibverbs-providers         libmbedcrypto7t64
+  imagemagick-6-common      libmfx1
+  imagemagick-6.q16         libpaper1
+  libassuan0                libperl5.38t64
+  libavfilter9              libplacebo338
+  libbfio1                  libplist3
+  libboost-iostreams1.83.0  libpostproc57
+  libboost-thread1.83.0     libpython3.11-dev
+  libcapstone4              librados2
+  libcephfs2                librdmacm1t64
+  libdirectfb-1.7-7t64      libtag1v5
+  libegl-dev                libtag1v5-vanilla
+  libfmt9                   libtagc0
+  libfreerdp-client2-2t64   libusbmuxd6
+  libfreerdp2-2t64          libwinpr2-2t64
+  libgail-common            libzip4t64
+  libgail18t64              openjdk-17-jre
+  libgeos3.12.2             openjdk-17-jre-headless
+  libgfapi0                 openjdk-23-jre
+  libgfrpc0                 openjdk-23-jre-headless
+  libgfxdr0                 perl-modules-5.38
+  libgl1-mesa-dev           python3-appdirs
+  libgles-dev               python3-hatch-vcs
+  libgles1                  python3-hatchling
+  libglusterfs0             python3-lib2to3
+  libglvnd-core-dev         python3-pathspec
+  libglvnd-dev              python3-pluggy
+  libgspell-1-2             python3-setuptools-scm
+  libgtk2.0-0t64            python3-trove-classifiers
+  libgtk2.0-bin             python3.11
+  libgtk2.0-common          python3.11-dev
+  libibverbs1               python3.11-minimal
+  libimobiledevice6         rwho
+  libiniparser1             rwhod
+  libjim0.82t64             samba-vfs-modules
+  libjsoncpp25
+Use 'sudo apt autoremove' to remove them.
+
+Summary:
+  Upgrading: 0, Installing: 0, Removing: 0, Not Upgrading: 154
+
+--------------------
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3-requests is already the newest version (2.32.3+dfsg-1).
+The following packages were automatically installed and are no longer required:
+  fonts-liberation2         libmagickcore-6.q16-7-extra
+  freerdp2-x11              libmagickcore-6.q16-7t64
+  hydra-gtk                 libmagickwand-6.q16-7t64
+  ibverbs-providers         libmbedcrypto7t64
+  imagemagick-6-common      libmfx1
+  imagemagick-6.q16         libpaper1
+  libassuan0                libperl5.38t64
+  libavfilter9              libplacebo338
+  libbfio1                  libplist3
+  libboost-iostreams1.83.0  libpostproc57
+  libboost-thread1.83.0     libpython3.11-dev
+  libcapstone4              librados2
+  libcephfs2                librdmacm1t64
+  libdirectfb-1.7-7t64      libtag1v5
+  libegl-dev                libtag1v5-vanilla
+  libfmt9                   libtagc0
+  libfreerdp-client2-2t64   libusbmuxd6
+  libfreerdp2-2t64          libwinpr2-2t64
+  libgail-common            libzip4t64
+  libgail18t64              openjdk-17-jre
+  libgeos3.12.2             openjdk-17-jre-headless
+  libgfapi0                 openjdk-23-jre
+  libgfrpc0                 openjdk-23-jre-headless
+  libgfxdr0                 perl-modules-5.38
+  libgl1-mesa-dev           python3-appdirs
+  libgles-dev               python3-hatch-vcs
+  libgles1                  python3-hatchling
+  libglusterfs0             python3-lib2to3
+  libglvnd-core-dev         python3-pathspec
+  libglvnd-dev              python3-pluggy
+  libgspell-1-2             python3-setuptools-scm
+  libgtk2.0-0t64            python3-trove-classifiers
+  libgtk2.0-bin             python3.11
+  libgtk2.0-common          python3.11-dev
+  libibverbs1               python3.11-minimal
+  libimobiledevice6         rwho
+  libiniparser1             rwhod
+  libjim0.82t64             samba-vfs-modules
+  libjsoncpp25
+Use 'sudo apt autoremove' to remove them.
+
+Summary:
+  Upgrading: 0, Installing: 0, Removing: 0, Not Upgrading: 154
+
+--------------------
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3-packaging is already the newest version (24.2-1).
+The following packages were automatically installed and are no longer required:
+  fonts-liberation2         libmagickcore-6.q16-7-extra
+  freerdp2-x11              libmagickcore-6.q16-7t64
+  hydra-gtk                 libmagickwand-6.q16-7t64
+  ibverbs-providers         libmbedcrypto7t64
+  imagemagick-6-common      libmfx1
+  imagemagick-6.q16         libpaper1
+  libassuan0                libperl5.38t64
+  libavfilter9              libplacebo338
+  libbfio1                  libplist3
+  libboost-iostreams1.83.0  libpostproc57
+  libboost-thread1.83.0     libpython3.11-dev
+  libcapstone4              librados2
+  libcephfs2                librdmacm1t64
+  libdirectfb-1.7-7t64      libtag1v5
+  libegl-dev                libtag1v5-vanilla
+  libfmt9                   libtagc0
+  libfreerdp-client2-2t64   libusbmuxd6
+  libfreerdp2-2t64          libwinpr2-2t64
+  libgail-common            libzip4t64
+  libgail18t64              openjdk-17-jre
+  libgeos3.12.2             openjdk-17-jre-headless
+  libgfapi0                 openjdk-23-jre
+  libgfrpc0                 openjdk-23-jre-headless
+  libgfxdr0                 perl-modules-5.38
+  libgl1-mesa-dev           python3-appdirs
+  libgles-dev               python3-hatch-vcs
+  libgles1                  python3-hatchling
+  libglusterfs0             python3-lib2to3
+  libglvnd-core-dev         python3-pathspec
+  libglvnd-dev              python3-pluggy
+  libgspell-1-2             python3-setuptools-scm
+  libgtk2.0-0t64            python3-trove-classifiers
+  libgtk2.0-bin             python3.11
+  libgtk2.0-common          python3.11-dev
+  libibverbs1               python3.11-minimal
+  libimobiledevice6         rwho
+  libiniparser1             rwhod
+  libjim0.82t64             samba-vfs-modules
+  libjsoncpp25
+Use 'sudo apt autoremove' to remove them.
+
+Summary:
+  Upgrading: 0, Installing: 0, Removing: 0, Not Upgrading: 154
+
+--------------------
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3-psutil is already the newest version (5.9.8-2).
+The following packages were automatically installed and are no longer required:
+  fonts-liberation2         libmagickcore-6.q16-7-extra
+  freerdp2-x11              libmagickcore-6.q16-7t64
+  hydra-gtk                 libmagickwand-6.q16-7t64
+  ibverbs-providers         libmbedcrypto7t64
+  imagemagick-6-common      libmfx1
+  imagemagick-6.q16         libpaper1
+  libassuan0                libperl5.38t64
+  libavfilter9              libplacebo338
+  libbfio1                  libplist3
+  libboost-iostreams1.83.0  libpostproc57
+  libboost-thread1.83.0     libpython3.11-dev
+  libcapstone4              librados2
+  libcephfs2                librdmacm1t64
+  libdirectfb-1.7-7t64      libtag1v5
+  libegl-dev                libtag1v5-vanilla
+  libfmt9                   libtagc0
+  libfreerdp-client2-2t64   libusbmuxd6
+  libfreerdp2-2t64          libwinpr2-2t64
+  libgail-common            libzip4t64
+  libgail18t64              openjdk-17-jre
+  libgeos3.12.2             openjdk-17-jre-headless
+  libgfapi0                 openjdk-23-jre
+  libgfrpc0                 openjdk-23-jre-headless
+  libgfxdr0                 perl-modules-5.38
+  libgl1-mesa-dev           python3-appdirs
+  libgles-dev               python3-hatch-vcs
+  libgles1                  python3-hatchling
+  libglusterfs0             python3-lib2to3
+  libglvnd-core-dev         python3-pathspec
+  libglvnd-dev              python3-pluggy
+  libgspell-1-2             python3-setuptools-scm
+  libgtk2.0-0t64            python3-trove-classifiers
+  libgtk2.0-bin             python3.11
+  libgtk2.0-common          python3.11-dev
+  libibverbs1               python3.11-minimal
+  libimobiledevice6         rwho
+  libiniparser1             rwhod
+  libjim0.82t64             samba-vfs-modules
+  libjsoncpp25
+Use 'sudo apt autoremove' to remove them.
+
+Summary:
+  Upgrading: 0, Installing: 0, Removing: 0, Not Upgrading: 154
+
+--------------------
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+php is already the newest version (2:8.2+93+nmu1).
+The following packages were automatically installed and are no longer required:
+  fonts-liberation2         libmagickcore-6.q16-7-extra
+  freerdp2-x11              libmagickcore-6.q16-7t64
+  hydra-gtk                 libmagickwand-6.q16-7t64
+  ibverbs-providers         libmbedcrypto7t64
+  imagemagick-6-common      libmfx1
+  imagemagick-6.q16         libpaper1
+  libassuan0                libperl5.38t64
+  libavfilter9              libplacebo338
+  libbfio1                  libplist3
+  libboost-iostreams1.83.0  libpostproc57
+  libboost-thread1.83.0     libpython3.11-dev
+  libcapstone4              librados2
+  libcephfs2                librdmacm1t64
+  libdirectfb-1.7-7t64      libtag1v5
+  libegl-dev                libtag1v5-vanilla
+  libfmt9                   libtagc0
+  libfreerdp-client2-2t64   libusbmuxd6
+  libfreerdp2-2t64          libwinpr2-2t64
+  libgail-common            libzip4t64
+  libgail18t64              openjdk-17-jre
+  libgeos3.12.2             openjdk-17-jre-headless
+  libgfapi0                 openjdk-23-jre
+  libgfrpc0                 openjdk-23-jre-headless
+  libgfxdr0                 perl-modules-5.38
+  libgl1-mesa-dev           python3-appdirs
+  libgles-dev               python3-hatch-vcs
+  libgles1                  python3-hatchling
+  libglusterfs0             python3-lib2to3
+  libglvnd-core-dev         python3-pathspec
+  libglvnd-dev              python3-pluggy
+  libgspell-1-2             python3-setuptools-scm
+  libgtk2.0-0t64            python3-trove-classifiers
+  libgtk2.0-bin             python3.11
+  libgtk2.0-common          python3.11-dev
+  libibverbs1               python3.11-minimal
+  libimobiledevice6         rwho
+  libiniparser1             rwhod
+  libjim0.82t64             samba-vfs-modules
+  libjsoncpp25
+Use 'sudo apt autoremove' to remove them.
+
+Summary:
+  Upgrading: 0, Installing: 0, Removing: 0, Not Upgrading: 154
+
+--------------------
+
+=========
+COMPLETED
+=========
+
